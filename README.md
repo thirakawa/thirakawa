@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 ---
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=thirakawa&count_private=true&show_icons=true" />
+  <img height=180 align="left" src="https://github-readme-stats.vercel.app/api?username=thirakawa&count_private=true&show_icons=true" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thirakawa&langs_count=3" />
+  <img height=180 align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thirakawa&langs_count=3" />
 </a>
