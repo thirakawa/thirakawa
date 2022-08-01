@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **thirakawa/thirakawa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,7 +14,6 @@ Here are some ideas to get you started:
 -->
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=thirakawa)](https://github.com/ryo-ma/github-profile-trophy)
-
 
 ---
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thirakawa)](https://github.com/anuraghazra/github-readme-stats)
