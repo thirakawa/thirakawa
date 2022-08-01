@@ -13,13 +13,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=thirakawa)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=thirakawa&theme=discord&margin-w=12)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=180 align="left" src="https://github-readme-stats.vercel.app/api?username=thirakawa&count_private=true&show_icons=true" />
+  <img height=180 align="left" src="https://github-readme-stats.vercel.app/api?username=thirakawa&count_private=true&show_icons=true&theme=tokyonight" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=180 align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thirakawa&langs_count=3" />
+  <img height=180 align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thirakawa&langs_count=3&theme=tokyonight" />
 </a>
